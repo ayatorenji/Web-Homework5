@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "This project is front-end of manage account application",
   "productName": "ManageAccount",
-  "author": "Amonrat P.",
+  "author": "Jay",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
